@@ -1,0 +1,67 @@
+[
+  {
+    "list_time": 1693378633111,
+    "manufacture_date": 2020,
+    "brand": "Toyota",
+    "model": "Rush",
+    "origin": "Mỹ",
+    "type": "SUV / Cross over",
+    "seats": 4.0,
+    "gearbox": "AT",
+    "fuel": "petrol",
+    "color": "black",
+    "mileage_v2": 40000
+  },
+  {
+    "list_time": 1693378633111,
+    "manufacture_date": 2019,
+    "brand": "Honda",
+    "model": "CR V",
+    "origin": "Mỹ",
+    "type": "SUV / Cross over",
+    "seats": 4.0,
+    "gearbox": "MT",
+    "fuel": "petrol",
+    "color": "white",
+    "mileage_v2": 20000
+  },
+  {
+    "list_time": 1693378633111,
+    "manufacture_date": 2013,
+    "brand": "Kia",
+    "model": "Forte",
+    "origin": "Việt Nam",
+    "type": "SUV / Cross over",
+    "seats": 4.0,
+    "gearbox": "AT",
+    "fuel": "petrol",
+    "color": "white",
+    "mileage_v2": 55000
+  },
+  {
+    "list_time": 1693378633111,
+    "manufacture_date": 2016,
+    "brand": "Mercedes Benz",
+    "model": "GLA Class",
+    "origin": "Việt Nam",
+    "type": "SUV / Cross over",
+    "seats": 4.0,
+    "gearbox": "AT",
+    "fuel": "petrol",
+    "color": "white",
+    "mileage_v2": 40000
+  },
+  {
+    "list_time": 1693378633111,
+    "manufacture_date": 2022,
+    "brand": "Vinfast",
+    "model": "Fadil",
+    "origin": "Việt Nam",
+    "type": "Hatchback",
+    "seats": 4.0,
+    "gearbox": "AT",
+    "fuel": "petrol",
+    "color": "white",
+    "mileage_v2": 10000
+  }
+]
