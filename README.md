@@ -4,7 +4,7 @@
 
 ## **Tổng quan**
 
-Dự án này nhằm xây dựng một hệ thống dự đoán giá xe hơi dựa trên tập dữ liệu về thông tin xe hơi. Kho lưu trữ được tổ chức để hỗ trợ một quy trình phân tích có cấu trúc, bao gồm tiền xử lý dữ liệu, phân tích dữ liệu khám phá (EDA), huấn luyện mô hình và suy luận dự đoán. Kết quả cuối cùng là một API có khả năng trả về dự đoán giá xe dựa trên các đặc điểm đầu vào.
+Dự án này nhằm xây dựng một hệ thống dự đoán giá xe hơi dựa trên tập dữ liệu về thông tin xe hơi. Github repo này gồm các file: tiền xử lý dữ liệu, phân tích dữ liệu khám phá (EDA), huấn luyện mô hình và suy luận dự đoán. Kết quả cuối cùng là một API có khả năng trả về dự đoán giá xe dựa trên các đặc điểm đầu vào.
 
 ---
 
